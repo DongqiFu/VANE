@@ -5,7 +5,7 @@ This repository is for the CIKM'2020 paper "A View-Adversarial Framework for Mul
 Given a multi-view network, VANE is able to produce view-invariant and robust node embeddings via two adversarial games.
 
 ## Reference
-If you use the materials from the repositiory, please refer to our paper.
+If you use the materials from this repositiory, please refer to our paper.
 ```
 @inproceedings{DBLP:conf/cikm/FuXLTH20,
   author    = {Dongqi Fu and
