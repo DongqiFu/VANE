@@ -1,4 +1,4 @@
-# VANE (View-Adversarial Multi-View Network Embedding)
+# VANE
 This repository is for the CIKM'2020 paper "A View-Adversarial Framework for Multi-View Network Embedding".
 
 ## Functionality
