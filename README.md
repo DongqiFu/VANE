@@ -1,5 +1,5 @@
 # VANE
-This repository is for the CIKM'2020 paper "A View-Adversarial Framework for Multi-View Network Embedding".
+This repository is for the CIKM' 2020 paper "A View-Adversarial Framework for Multi-View Network Embedding".
 
 ## Functionality
 Given a multi-view network, VANE is able to produce view-invariant and robust node embeddings via two adversarial games.
